@@ -1,0 +1,23 @@
+target/
+logs/
+.idea/
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Intellij generated files #
+#####################
+*.iml
+
+# Eclipse generated files #
+###########################
+/.settings
+.classpath
+.project
